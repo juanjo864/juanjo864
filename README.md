@@ -15,7 +15,5 @@ Estoy orgulloso de haber obtenido múltiples certificaciones en diferentes área
 
 <img src="https://images.credly.com/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob" alt="Insignia Unity" width="100"/>
 
-[🔗 Ver mi certificación de Unity programmer](https://www.credly.com/badges/7ff70a66-436a-4aee-99b5-40541f8a97fb/public_url)   
-
-<img src="https://images.credly.com/images/a7bea4b9-3704-4905-8681-aeaf64efd2f1/blob" alt="Insignia Unity" width="100"/>
+[![Insignia Unity](https://images.credly.com/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob)](https://www.credly.com/badges/3dd32597-c3aa-45e0-bf72-10eb6edb6988)
 
