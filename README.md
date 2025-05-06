@@ -1,6 +1,6 @@
 
 
-<!--
+
                                                             HOLA SOY JUANJOSE
 
 ## 🚀 Mis Certificaciones y Logros  
@@ -17,4 +17,4 @@ Estoy orgulloso de haber obtenido múltiples certificaciones en diferentes área
 [🔗 Ver mi certificación de Unity programmer](https://www.credly.com/badges/7ff70a66-436a-4aee-99b5-40541f8a97fb/public_url)   
 
 <img src="https://images.credly.com/images/a7bea4b9-3704-4905-8681-aeaf64efd2f1/blob" alt="Insignia Unity" width="100"/>
--->
+
