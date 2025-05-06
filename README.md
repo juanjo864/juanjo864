@@ -1,7 +1,7 @@
 
 
 
-                                                         ## 🚀 Sobre mí
+   ## 🚀 Sobre mí
 ¡Hola! Soy Juanjo,un programador informatico
 
 ## 🎯 Habilidades
