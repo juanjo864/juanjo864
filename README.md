@@ -2,8 +2,11 @@
 
 
                                                             HOLA SOY JUANJOSE
+                                                        Hola soy JUANJOSE
+                                                        soy un programador informatico
 
-
+## 🎯 Habilidades
+- **Lenguajes:** C#
 ## 🚀 Mis Certificaciones y Logros  
 Estoy orgulloso de haber obtenido múltiples certificaciones en diferentes áreas de tecnología y programación. ¡Siempre aprendiendo y mejorando!  
 
