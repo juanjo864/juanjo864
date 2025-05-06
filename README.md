@@ -1,7 +1,7 @@
 
 
 
-                                                            HOLA SOY JUANJOSe
+                                                            HOLA SOY JUANJOSE
 
 
 ## 🚀 Mis Certificaciones y Logros  
