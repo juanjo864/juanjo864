@@ -18,4 +18,5 @@ Estoy orgulloso de haber obtenido múltiples certificaciones en diferentes área
 <a href="https://www.credly.com/badges/7ff70a66-436a-4aee-99b5-40541f8a97fb/public_url">
     <img src="https://images.credly.com/images/a7bea4b9-3704-4905-8681-aeaf64efd2f1/blob" alt="Insignia Unity" width="150"/>
 </a>
+
 ¡Gracias por visitar mi perfil! 
