@@ -2,7 +2,7 @@
 
 
    ## 🚀 Sobre mí
-¡Hola! Soy Juanjo,un programador informatico
+¡Hola! Soy Juanjo,un programador informatico y aqui comparto mis proyecto y conocimientos para la comunidad
 
 ## 🎯 Habilidades
 - **Lenguajes:** C#
