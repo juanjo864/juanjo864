@@ -8,6 +8,7 @@
 - **Lenguajes:** C#
 - **Desarrollo:** Aplicaciones de escritorio
 - **Entornos de desarrollo:** Visual Studio
+- **Motor de videojuego:** Unity
 ## 🚀 Mis Certificaciones y Logros  
 Estoy orgulloso de haber obtenido múltiples certificaciones en diferentes áreas de tecnología y programación. ¡Siempre aprendiendo y mejorando!  
 
